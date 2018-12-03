@@ -1,0 +1,13 @@
+github.com/avct/uasurfer v0.0.0-20180927160713-2ce2c8fcd544 h1:kSERG18JdiEknfkAeCDd8NBhcOHzMvFkDpWSWHPtvdw=
+github.com/avct/uasurfer v0.0.0-20180927160713-2ce2c8fcd544/go.mod h1:noBAuukeYOXa0aXGqxr24tADqkwDO2KRD15FsuaZ5a8=
+github.com/blang/semver v3.5.1+incompatible h1:cQNTCjp13qL8KC3Nbxr/y2Bqb63oX6wdnnjpJbkM4JQ=
+github.com/blang/semver v3.5.1+incompatible/go.mod h1:kRBLl5iJ+tD4TcOOxsy/0fnwebNt5EWlYSAyrTnjyyk=
+github.com/marcsantiago/uasurfer v0.0.0-20180927160713-2ce2c8fcd544 h1:w2YPuPwx5Ejf/trpmr9MngE/kk50F1D9bhZ1qNQjnt4=
+github.com/marcsantiago/uasurfer v0.0.0-20180927160713-2ce2c8fcd544/go.mod h1:D+b/RAFLog7Ass5lNNuzahgG1/jyNIhCcXRxiYTAavs=
+github.com/ua-parser/uap-go v0.0.0-20181003033359-705feb871b1a h1:78+Mfh14ZhpaJfFK5xuG202afafyE5/PRx+9Lq/bdaQ=
+github.com/ua-parser/uap-go v0.0.0-20181003033359-705feb871b1a/go.mod h1:OBcG9bn7sHtXgarhUEb3OfCnNsgtGnkVf41ilSZ3K3E=
+github.com/xojoc/useragent v0.0.0-20170215185434-52903803fc66 h1:MC98294mmYwWQHeaQ2+kR8snWBEQeVXEXkEYIgsE1EU=
+github.com/xojoc/useragent v0.0.0-20170215185434-52903803fc66/go.mod h1:3SrcTmgUCXqpF8A4rZ3IPvnRzvwWqNFNqtSJ19P94g4=
+gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405/go.mod h1:Co6ibVJAznAaIkqp8huTwlJQCZ016jof/cbN4VW5Yz0=
+gopkg.in/yaml.v2 v2.2.1 h1:mUhvW9EsL+naU5Q3cakzfE91YhliOondGd6ZrsDBHQE=
+gopkg.in/yaml.v2 v2.2.1/go.mod h1:hI93XBmqTisBFMUTm0b8Fm+jr3Dg1NNxqwp+5A1VGuI=

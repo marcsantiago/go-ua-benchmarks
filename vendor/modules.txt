@@ -1,0 +1,10 @@
+# github.com/avct/uasurfer v0.0.0-20180927160713-2ce2c8fcd544
+github.com/avct/uasurfer
+# github.com/blang/semver v3.5.1+incompatible
+github.com/blang/semver
+# github.com/ua-parser/uap-go v0.0.0-20181003033359-705feb871b1a
+github.com/ua-parser/uap-go/uaparser
+# github.com/xojoc/useragent v0.0.0-20170215185434-52903803fc66
+github.com/xojoc/useragent
+# gopkg.in/yaml.v2 v2.2.1
+gopkg.in/yaml.v2
